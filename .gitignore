@@ -52,3 +52,4 @@ models
 data
 config.toml
 sd-scripts
+api_out
